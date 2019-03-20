@@ -23,6 +23,6 @@ Install virtualenv
 Create a new virtual environment using python3.7
 ```
 > virtualenv --python=python3.7 cluelessEnv
-...
-> source cluelessEnv/bin/activate
 ```
+- To activate the env (bash): `source cluelessEnv/bin/activate`
+- To deactivate the env: `deactivate`
